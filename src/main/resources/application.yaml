@@ -1,0 +1,14 @@
+#server:
+#  port: 9090
+#
+#spring:
+#  data:
+#    mongodb:
+#      authentication-database: admin
+#      username: bram
+#      password: mynameisBram
+#      database: testDB
+#      port: 27017
+#      host: localhost
+#  main:
+#    allow-bean-definition-overriding: true
